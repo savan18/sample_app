@@ -4,6 +4,9 @@ source "https://rubygems.org"
 gem "rails", "~> 7.2.1"
 # HTML freame work add
 gem "bootstrap-sass"
+# for password security
+gem "bcrypt", "3.1.13"
+
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 # Use sqlite3 as the database for Active Record
