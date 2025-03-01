@@ -7,6 +7,9 @@ gem "bootstrap-sass"
 # for password security
 gem "bcrypt", "3.1.13"
 
+gem "rails-controller-testing"
+
+
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 # Use sqlite3 as the database for Active Record
